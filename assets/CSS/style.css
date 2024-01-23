@@ -1,0 +1,9 @@
+/* ESTILOS GENÉRICOS */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    /* para que me haga un scroll cuando le voy adando a las pestañas servicios,quienes somos,etc */
+    scroll-behavior: smooth;
+  }
